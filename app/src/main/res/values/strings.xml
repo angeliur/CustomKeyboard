@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">CustomKeyboard</string>
+    <string name="text1">Edittext获取焦点时弹出自定义键盘1:</string>
+    <string name="text2">Edittext获取焦点时弹出自定义键盘2:</string>
+    <string name="text3">Edittext获取焦点时弹出系统键盘:</string>
+</resources>

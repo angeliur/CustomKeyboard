@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <integer name="keyboard_next_step">100</integer>
+    <integer name="keyboard_clear_all">101</integer>
+
+</resources>
